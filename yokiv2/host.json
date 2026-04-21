@@ -112,7 +112,6 @@
     {
       "group_name": "lama-cdn-cos",
       "nodes": [
-        
         {
           "host": "lama-cf.wenext-resource.chat",
           "weight": 10
